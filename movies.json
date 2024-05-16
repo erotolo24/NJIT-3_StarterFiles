@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Shrek",
+            "iscore": 7.9,
+            "rating": "PG",
+            "runtime": 90,
+            "released": [2001, 4, 22],
+            "country": "USA",
+            "posters": ["_", "_"],
+            "imdb": "https://www.imdb.com/title/tt0126029/",
+            "website": "https://www.dreamworks.com/movies/shrek",
+            "likes": 999,
+            "dislikes": 1,
+            "posterindex": 0
+      },
+      {
+            "title": "Speed",
+            "iscore": 7.3,
+            "rating": "R",
+            "runtime": 116,
+            "released": [1994, 6, 10],
+            "country": "USA",
+            "posters": ["_", "_"],
+            "imdb": "https://www.imdb.com/title/tt0111257/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_speed",
+            "website": "https://en.wikipedia.org/wiki/Speed_(1994_film)",
+            "likes": 532,
+            "dislikes": 34,
+            "posterindex": 0
+      },
+      {
+            "title": "The Batman",
+            "iscore": 7.8,
+            "rating": "PG-13",
+            "runtime": 176,
+            "released": [2022, 3, 4],
+            "country": "USA",
+            "posters": ["_", "_"],
+            "imdb": "https://www.imdb.com/title/tt1877830/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520batman",
+            "website": "https://en.wikipedia.org/wiki/The_Batman_(film)",
+            "likes": 737,
+            "dislikes": 53,
+            "posterindex": 0
       }
 ]
